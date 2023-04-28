@@ -24,7 +24,7 @@ Users should be able to:
 
 
 ## Link
-* Deployed link: [meetland-page] (https://meetland-page-amalitech.netlify.app)
+* Deployed link: https://meetland-page-amalitech.netlify.app
 
 ## Web Technologies
 * HTML5
