@@ -18,6 +18,8 @@ Users should be able to:
 2. See hover states for interactive elements.
 
 ## Screenshot
+![screenshot-1]https://github.com/j-elorm/meet-landing-page/blob/main/meet-landing-1.png
+![screenshot-2]https://github.com/j-elorm/meet-landing-page/blob/main/meet-landing-2.png
 
 
 ## Link
