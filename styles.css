@@ -318,3 +318,40 @@ p {
         line-height: 4rem;
     }
 }
+
+.number-sep-box {
+    width: 100%;
+}
+
+.number-sep {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 900;
+    color: var(--color-other);
+}
+
+.vertical-line {
+    border-left: 1px solid rgba(135,135,157,0.26);
+    width: 0px;
+    height: 84px;
+}
+
+.circle-shape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 56px;
+    border: 1px solid rgba(135,135,157,0.25);
+    border-radius: 50%;
+    background-color: var(--color-neutral);
+}
+
+.shift .number-sep {
+    position: relative;
+    bottom: -28px;
+    z-index: 10;
+}
