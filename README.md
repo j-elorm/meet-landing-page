@@ -1,4 +1,5 @@
 # AmaliTech Training Phase 1 Portfolio - Meet landing page
+Portfolio project solution to the Meet landing page project by AmaliTech Training.
 
 ## Table of contents
 
