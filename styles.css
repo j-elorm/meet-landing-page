@@ -495,9 +495,6 @@ p {
 }
 
 @media screen and (min-width: 1200px) {
-    .grid {
-        gap: 0;
-    }
     .grid img {
         width: 280px;
     }
