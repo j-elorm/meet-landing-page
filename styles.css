@@ -161,8 +161,12 @@ p {
     width: 139px;
 }
 
-.version-num {
+.version-num-hero {
     color: #8fe3f9;
+}
+
+.version-num-footer {
+    color: #d9b8ff;
 }
 
 .hero__btns {
@@ -407,7 +411,7 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
     padding: 85px 20px;
     text-align: center;
     color: var(--color-neutral);
@@ -487,5 +491,14 @@ p {
 
     .footer__content a {
         text-align: center;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .grid {
+        gap: 0;
+    }
+    .grid img {
+        width: 280px;
     }
 }
